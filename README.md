@@ -10,6 +10,7 @@ Kun havaitset jotain korjattavaa, tee seuraavat toimenpiteet:
 1. Tarkista ettei havaintoa ole tehty jo - ei ole tarkoituksenmukaista raportoida useasti samaa ongelmaa https://palautteet.hel.fi/palautteet-kartalla
 2. Tee vikailmoitus: https://palautteet.hel.fi/tunnistautuminen-uusi-vikailmoitus
     - Valitse käsittelyvaihtoehdoista sellainen, jossa saat linkin seurantasivulle
+    - Sensuroi kasvot kuvista
     - Anna lupa julkaista ellei ole painavaa syytä olla antamatta
 3. Kirjaa uusi tiketti githubiin: https://github.com/sampov2/helsingin-talkkari/issues/new
     - Ilmoita milloin asia on raportoitu
